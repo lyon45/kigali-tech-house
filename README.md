@@ -8,7 +8,7 @@
 **Course:** E-Commerce And Web Application (EWA408510)  
 **Lecturer:** Eric Maniraguha  
 **Academic Year:** 2025-2026  
-**Semester:** II  
+**Semester:** II
 
 🌐 **Live Website:** https://michaelderick602.wixsite.com/kigali-tech-house
 
@@ -19,8 +19,8 @@
 # Student Information
 
 | Item | Details |
-|--------|--------|
-| Student Name | IRADUKUNDA DERICK 
+|------|---------|
+| Student Name | IRADUKUNDA DERICK |
 | Registration Number | 23818/2024 |
 | University | University of Lay Adventists of Kigali (UNILAK) |
 | Course | E-Commerce And Web Application (EWA408510) |
@@ -83,7 +83,7 @@ The product page includes:
 - Product catalog
 - Product images
 - Product descriptions
-- Product browsing functionality
+- Product prices
 - Shopping cart interaction
 - Product categories
 
@@ -133,11 +133,11 @@ The website contains the following pages:
 
 ## Homepage
 
-![Homepage](images/HOME%20SCREEN(1).png)
+![Homepage](images/HOME%20SCREEN.png)
 
 ### Description
 
-The homepage welcomes visitors to Kigali Tech House and introduces the brand with a modern and professional design.
+The homepage welcomes visitors to Kigali Tech House and provides navigation to all sections of the website.
 
 ---
 
@@ -147,17 +147,27 @@ The homepage welcomes visitors to Kigali Tech House and introduces the brand wit
 
 ### Description
 
-The product page displays available electronic products and accessories with images and shopping functionality.
+The Product Page displays electronic devices and other products available for customers, including product images, descriptions, and shopping functionality.
 
 ---
 
 ## About Us Page
 
-![About Us Page](images/AABOUT%20US(1).png)
+![About Us Page](images/AABOUT%20US.png)
 
 ### Description
 
-The About Us page presents information about Kigali Tech House, its mission, and leadership.
+The About Us Page presents information about Kigali Tech House, including its mission, vision, and business objectives.
+
+---
+
+## Contact Us Page
+
+![Contact Us Page](images/CONTACT%20US.png)
+
+### Description
+
+The Contact Us Page allows customers to communicate with Kigali Tech House through contact information and inquiry forms.
 
 ---
 
@@ -224,7 +234,7 @@ This project helped me learn:
 
 # Live Website Link
 
-### Kigali Tech House Website
+## Kigali Tech House Website
 
 https://michaelderick602.wixsite.com/kigali-tech-house
 
@@ -232,7 +242,7 @@ https://michaelderick602.wixsite.com/kigali-tech-house
 
 # GitHub Repository Link
 
-### GitHub Repository
+## GitHub Repository
 
 https://github.com/lyon45/kigali-tech-house
 
@@ -246,9 +256,10 @@ kigali-tech-house/
 ├── README.md
 │
 └── images/
-    ├── HOME SCREEN(1).png
+    ├── HOME SCREEN.png
     ├── PRODUCT-SCREEN.png
-    └── AABOUT US(1).png
+    ├── AABOUT US.png
+    └── CONTACT US.png
 ```
 
 ---
@@ -256,7 +267,7 @@ kigali-tech-house/
 # Evaluation Requirements Covered
 
 | Requirement | Status |
-
+|------------|---------|
 | Homepage | ✅ Completed |
 | Product Page | ✅ Completed |
 | About Page | ✅ Completed |
